@@ -9,6 +9,7 @@ It has 2 UI Screens as follows:
 This demo has the following entries in Info.plist which are neccesary for it to run
 
 1. Allow arbitraty loads becasue the ISS endpoint runs on http v.s. https
+
 http://open-notify.org/Open-Notify-API/ISS-Pass-Times/
 
 2. Privacy - Location When In Use is required becasue we need access to the user's location.
