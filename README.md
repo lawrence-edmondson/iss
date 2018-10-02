@@ -1,6 +1,7 @@
 #  International Space Station (ISS) Rising Times Demo
 
-This ISS Rising Times Demo was created by Lawrence Edmondson
+This ISS Rising Times Demo was created by Lawrence Edmondson as a means to test the ISS API.
+
 It has 2 UI Screens as follows:
 1. Home Screen where a user sets their location
 2. Results Screen where the results of the ISS Rising times for the user's given lat and long are displayed
