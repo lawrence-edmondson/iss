@@ -17,6 +17,7 @@
 		845A42402017FA090037422C /* AlamoHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845A423F2017FA090037422C /* AlamoHelper.swift */; };
 		845A42452018631C0037422C /* TableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845A42442018631C0037422C /* TableCell.swift */; };
 		845A424720186A370037422C /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845A424620186A370037422C /* TableViewController.swift */; };
+		84753AB721640004007E87AD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 84753AB621640004007E87AD /* README.md */; };
 		DC5E1AC639FC98A2E9186C04 /* Pods_iss.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7CE6C4E34E82AE0C2A913CEB /* Pods_iss.framework */; };
 /* End PBXBuildFile section */
 
@@ -54,9 +55,9 @@
 		845A42312017EF160037422C /* issUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = issUITests.swift; sourceTree = "<group>"; };
 		845A42332017EF160037422C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		845A423F2017FA090037422C /* AlamoHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlamoHelper.swift; sourceTree = "<group>"; };
-		845A4241201817FE0037422C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		845A42442018631C0037422C /* TableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableCell.swift; sourceTree = "<group>"; };
 		845A424620186A370037422C /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		84753AB621640004007E87AD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A9EF0A498837EAA09C4A610E /* Pods-iss.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iss.debug.xcconfig"; path = "Pods/Target Support Files/Pods-iss/Pods-iss.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -97,6 +98,7 @@
 		845A42052017EF160037422C = {
 			isa = PBXGroup;
 			children = (
+				84753AB621640004007E87AD /* README.md */,
 				845A42102017EF160037422C /* iss */,
 				845A42252017EF160037422C /* issTests */,
 				845A42302017EF160037422C /* issUITests */,
@@ -128,7 +130,6 @@
 				845A421A2017EF160037422C /* LaunchScreen.storyboard */,
 				845A421D2017EF160037422C /* Info.plist */,
 				845A423F2017FA090037422C /* AlamoHelper.swift */,
-				845A4241201817FE0037422C /* README.md */,
 			);
 			path = iss;
 			sourceTree = "<group>";
@@ -272,6 +273,7 @@
 			files = (
 				845A421C2017EF160037422C /* LaunchScreen.storyboard in Resources */,
 				845A42192017EF160037422C /* Assets.xcassets in Resources */,
+				84753AB721640004007E87AD /* README.md in Resources */,
 				845A42172017EF160037422C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
