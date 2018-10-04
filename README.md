@@ -5,13 +5,13 @@ This ISS Rising Times Demo was created by Lawrence Edmondson as a means to test 
 The demo has 3 UI Screens as follows:
 1. Home Screen where a user sets their location
 
-![screen 1] (https://github.com/lawrence-edmondson/iss/blob/master/readme-images/screen1.png)
+![screen 1](https://github.com/lawrence-edmondson/iss/blob/master/readme-images/screen1.png)
 
 2. Results Screen where the results of the ISS Rising times for the user's given lat and long are displayed
 
-![screen 2] (https://github.com/lawrence-edmondson/iss/blob/master/readme-images/screen2.png)
+![screen 2](https://github.com/lawrence-edmondson/iss/blob/master/readme-images/screen2.png)
 
-![screen 3] (https://github.com/lawrence-edmondson/iss/blob/master/readme-images/screen3.png)
+![screen 3](https://github.com/lawrence-edmondson/iss/blob/master/readme-images/screen3.png)
 
 #### Requirements
 This demo has the following entries in Info.plist which are neccesary for it to run
